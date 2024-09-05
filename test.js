@@ -1,4 +1,4 @@
-import * as jsDrill from "./js-drill1-com.js";
+import * as jsDrill from "./solution.js";
 import * as array from "./persons.js";
 
 
